@@ -23,4 +23,4 @@ export PF_ENGINE_PRIVATE_PORT_HTTPS=${PF_ENGINE_PRIVATE_PORT_HTTPS:=9031}
 #
 # Matches the certificate alias found in config/keystore.p12
 #
-export CERTIFICATE_NICKNAME=${CERTIFICATE_NICKNAME:=ping}
+export CERTIFICATE_NICKNAME=${CERTIFICATE_NICKNAME:=server-cert}
